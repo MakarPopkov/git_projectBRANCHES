@@ -5,6 +5,7 @@ def main():
 
 def my_function():
     print('new branch')
+    print(3)
 
 
 if __name__ == '__main__':
